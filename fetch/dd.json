@@ -1,0 +1,36 @@
+{
+  "genre": "Doordarshan",
+  "channels": [
+    {
+      "name": "DD bharti",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-01-211747570_23.png",
+      "link": "https://www.youtube.com/@ddbharati/live"
+    },
+    {
+      "name": "DD India",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/published/image-2024-07-01-211758848_22.png",
+      "link": "https://www.youtube.com/DDIndia/live"
+    },
+    {
+      "name": "DD Kisan",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/published/image-2024-07-01-211814092_22.png",
+      "link": "https://www.youtube.com/@DDKisan/live"
+    },
+    {
+      "name": "DD News",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/published/image-2024-07-01-211828767_22.png",
+      "link": "https://www.youtube.com/c/ddnews/live"
+    },
+    {
+      "name": "PM Evidya",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/published/image-2024-07-12-175658696-modified_22.png",
+      "link": "https://swayamprabha.gov.in/Live_channel/se"
+    },
+    {
+      "name": "DD National",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-01-211843844_22.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=dd-national/"
+    }
+        
+  ]
+}
