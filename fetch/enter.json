@@ -1,6 +1,7 @@
 {
   "genre": "entertainement",
-  "channels": [
+  "channels": 
+  [
     {
       "name": "Sony SAB HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-25-124711164-modified-2_11.png",
@@ -224,4 +225,5 @@
 
   ]
 }
+
 
