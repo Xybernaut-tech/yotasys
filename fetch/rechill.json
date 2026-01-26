@@ -1,0 +1,70 @@
+{
+  "genre": "relaxandchill",
+  "channels": [
+    {
+      "name": "Quietude 4k",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-06-004130426-modified_7.png",
+      "link": "https://www.freecast.com/channels/tv/quietude-4k"
+    },
+    {
+      "name": "Drone TV",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-003900167-modified_7.png",
+      "link": "https://www.distro.tv/live/dronetv/"
+    },
+    {
+      "name": "Study Lounge Lofi",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-003648089-modified_7.png",
+      "link": "https://www.distro.tv/live/study-lounge/"
+    },
+    {
+      "name": "Sonicentric",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-000733796-modified_7.png",
+      "link": "https://www.distro.tv/live/sonicentric/"
+    },
+    {
+      "name": "Fireplace Lounge",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-001306481-modified_7.png",
+      "link": "https://www.distro.tv/live/fireplace-lounge/"
+    },
+    {
+      "name": "Relaxing Rain",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-003209290-modified_7.png",
+      "link": "https://www.distro.tv/live/relaxing-rain/"
+    },
+    {
+      "name": "Fish Tank",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-002944119-modified_7.png",
+      "link": "https://www.distro.tv/live/fish-tank/"
+    },
+    {
+      "name": "island Escape",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-003252621-modified_7.png",
+      "link": "https://www.distro.tv/live/island-escape/"
+    },
+    {
+      "name": "Tranquil Storms",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-003325247-modified_6.png",
+      "link": "https://www.distro.tv/live/tranquil-thunderstorms/"
+    },
+    {
+      "name": "Autumn Escape",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-003347220-modified_6.png",
+      "link": "https://www.distro.tv/live/autumn-escape/"
+    },
+    {
+      "name": "Relaxing Winterscapes",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-12-06-003538984-modified_6.png",
+      "link": "https://www.distro.tv/live/relaxing-winterscapes/"
+    },
+    {
+      "name": "Spring Escape",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-06-003440533-modified_6.png",
+      "link": "https://www.distro.tv/live/spring-escape/"
+    },
+    {
+      "name": "Screen Dreams",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-06-003612256-modified_5.png",
+      "link": "https://www.distro.tv/live/screendreams-by-invincible/"
+    }
+  ]
+}

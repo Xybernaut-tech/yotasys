@@ -1,0 +1,60 @@
+{
+  "genre": "Devotion",
+  "channels": [
+    {
+      "name": "Aastha",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-01-211036655-modified_25.png",
+      "link": "https://aasthatv.tv/channel/live/aastha"
+    },
+    {
+      "name": "Sadhna",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-01-211309951-modified_25.png",
+      "link": "https://www.sadhna.com/live.html"
+    },
+    {
+      "name": "Aastha Bhajan",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-01-211107316-modified_25.png",
+      "link": "https://aasthatv.tv/channel/live/aashta-bhajan"
+    },
+    {
+      "name": "Divya",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-01-19-135253367_30.png",
+      "link": "https://www.distro.tv/live/channel-divya"
+    },
+    {
+      "name": "Sanskar",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-14-005714630-modified_7.png",
+      "link": "https://app.sanskargroup.in/live-tv-play?id=19"
+    },
+    {
+      "name": "Satsang",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-16-211641281-modified_7.png",
+      "link": "https://app.sanskargroup.in/live-tv-play?id=20"
+    },
+    {
+      "name": "Vedic",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/published/image-2024-11-14-005932576-modified_7.png",
+      "link": "https://aasthatv.tv/channel/live/vedic"
+    },
+    {
+      "name": "Hare Krsna TV",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-14-010029553-modified_7.png",
+      "link": "https://www.distro.tv/live/hare-krsna"
+    },
+    {
+      "name": "Bhakti Play",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-02-005154799-modified.png?1751397783",
+      "link": "https://samsung-tv.pages.dev/play.php?id=IN4600011RZ"
+    },
+    {
+      "name": "Astro Tak",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-175837044-modified.png?1751545791",
+      "link": "https://samsung-tv.pages.dev/play.php?id=IN26000170D"
+    },
+    {
+      "name": "Divya Bhajan",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-180113034-modified.png?1751545953",
+      "link": "https://samsung-tv.pages.dev/play.php?id=IN1600002IQ"
+    }
+  ]
+}

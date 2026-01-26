@@ -1,0 +1,226 @@
+{
+  "genre": "entertainement",
+  "channels": [
+    {
+      "name": "Sony SAB HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-25-124711164-modified-2_11.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=sony-sab-hd"
+    },
+    {
+      "name": "Sony SET HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-25-124902760-modified_11.png",
+      "link": "https://oxolive.com/live/sony-tv-hd"
+    },
+    {
+      "name": "Sony Pal",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-25-124957897-modified_11.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=sony-pal"
+    },
+    {
+      "name": "Sony Kal",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-06-28-172540327-removebg-preview_30.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=sony-kal/"
+    },
+    {
+      "name": "Star Plus HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-25-125411039-modified_11.png",
+      "link": "https://binge-jiotv.pages.dev/play?id=1132"
+    },
+    {
+      "name": "Star Bharat HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-12-012554422-modified.png?1746993484",
+      "link": "https://binge-jiotv.pages.dev/play?id=931"
+    },
+    {
+      "name": "Zee TV HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-06-28-011852344-modified.png?1751053772",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FZeetv%2Fdefault%2Fmanifest.mpd&key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b"
+    },
+    {
+      "name": "Colors HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-04-02-160308498-modified_32.png",
+      "link": "https://binge-jiotv.pages.dev/play?id=144"
+    },
+    {
+      "name": "&TV HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-12-015758853-modified.png?1746995297",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FAndtv%2Fdefault%2Fmanifest.mpd&key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b"
+    },
+    {
+      "name": "Colors Rishtey",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-11-202845749-modified_29.png?1741264111",
+      "link": "https://binge-jiotv.pages.dev/play?id=279"
+    },
+    {
+      "name": "The Q",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-12-015623747-modified.png?1746995223",
+      "link": "https://bingenix-alpha.netlify.app/go?url=the-q-india/"
+    },
+    {
+      "name": "Big Magic",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-12-015519032-modified.png?1746995170",
+      "link": "https://binge-sports.pages.dev/run?q=hlmgz.zoormlmvivylim.cba/av/kozb.ksk?rw=sggkh://a5zp-xnzuorev.avv5.xln/xnzu/orev/2105176/YrtNztrxVOV/nzhgvi.n3f8"
+    },
+    {
+      "name": "Shemaroo TV",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-10-20-194319114-removebg-preview-1-modified_12.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=shemaroo-tv/"
+    },
+    {
+      "name": "Shemaroo Umang",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-10-20-194450874-removebg-preview-1-modified_12.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=shemaroo-umang/"
+    },
+    {
+      "name": "Sun Neo HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-03-06-011308526.png?1741203830",
+      "link": "https://tataplays.site/player.html?id=301781"
+    },
+    {
+      "name": "MTV",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-164120462-modified-1.png?1747826024",
+      "link": "https://bingenix-alpha.netlify.app/go?url=mtv-hd/"
+    },
+    {
+      "name": "The Q Kahaniyan",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-04-02-160700193-modified_32.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=the-q-kahaniyan/"
+    },
+    {
+      "name": "Dangal",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-06-18-220154998-modified-removebg-preview-modified_29.png?1741264063",
+      "link": "https://bingenix-alpha.netlify.app/go?url=dangal/"
+    },
+    {
+      "name": "Green Chillies",
+      "logo": https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-181946843-modified.png?1747831813",
+      "link": "https://bingenix-alpha.netlify.app/go?url=green-chillies-tv/"
+    },
+    {
+      "name": "Nazara",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-12-020000551-modified.png?1746995428",
+      "link": "https://bingenix-alpha.netlify.app/go?url=nazara-tv/"
+    },
+    {
+      "name": "Dangal 2",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-07-191612964-removebg-preview-modified_11.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=dangal-2/"
+    },
+    {
+      "name": "Ishara",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-07-191527510-removebg-preview-modified_11.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=ishara-tv/"
+    },
+    {
+      "name": "Dhamaal TV",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-01-17-011000138-removebg-preview-modified.png?1741264048",
+      "link": "https://binge-jiotv.pages.dev/play?id=535"
+    },
+    {
+      "name": "Zee Anmol",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-04-011200769-removebg-preview-modified_11.png",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FZeeanmol%2Fdefault%2Fmanifest.mpd&key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204"
+    },    
+    {
+      "name": "Zing",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-22-221854424-modified_29.png",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FZing%2Fdefault%2Fmanifest.mpd&key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be"
+    },    
+    {
+      "name": "Desi Play TV",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-09-30-172121817-cleanup-modified_18.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=desi-play-tv/"
+    },    
+    {
+      "name": "Comedy Tadka",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-07-213231209-modified.png?1746633790",
+      "link": "https://bingenix-alpha.netlify.app/go?url=comedy-tadka/"
+    },    
+    {
+      "name": "Star Utsav",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-10-19-220600886_12.png",
+      "link": "https://binge-jiotv.pages.dev/play?id=1143"
+    },    
+    {
+      "name": "Korean TV",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-11-04-010724633-removebg-preview-1-modified_11.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=korean-tv/"
+    },    
+    {
+      "name": "Hollywood Desi",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-08-005644455-modified_11.png",
+      "link": "https://samsung-tv.pages.dev/play.php?id=IN3800010SH"
+    },    
+    {
+      "name": "Arre",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-08-005735694-modified_11.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=arre/"
+    },    
+    {
+      "name": "Bollywood Masala",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-24-005650586-modified.png?1736280731",
+      "link": "https://www.distro.tv/live/bollywood-masala/"
+    },    
+    {
+      "name": "Bollywood Hungama",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-24-010646166-modified.png?1735071790",
+      "link": "https://binge-jiotv.pages.dev/play?id=2040"
+    },    
+    {
+      "name": "Raj Parivar",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-21-014334473-modified.png?1734726303",
+      "link": "https://bingenix-alpha.netlify.app/go?url=raj-pariwar/"
+    },    
+    {
+      "name": "Manoranjan TV",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-07-211936895-modified.png?1746994306",
+      "link": "https://binge-play.vercel.app/ott/binge.html?id=34"
+    },    
+    {
+      "name": "Manoranjan Grand",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-03-06-114955109-removebg-preview-modified.png?1741242093",
+      "link": "https://bingenix-alpha.netlify.app/go?url=manoranjan-grand/"
+    },    
+    {
+      "name": "Comedy King",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-180551114-modified.png?1747831274",
+      "link": "https://samsung-tv.pages.dev/play.php?id=INBD4700006JD"
+    },    
+    {
+      "name": "Shorts TV Active",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-180617483-modified.png?1747831283",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FShortstv2%2Fdefault%2Fmanifest.mpd&key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467"
+    },    
+    {
+      "name": "Korean Drama Active",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-180649371-modified.png?1747831303",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FKoreandramas2%2Fdefault%2Fmanifest.mpd&key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4"
+    },    
+    {
+      "name": "MH1 Dil Se",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-180715071-modified.png?1747831298",
+      "link": "https://bingenix-alpha.netlify.app/go?url=mh1-dilse/"
+    },    
+    {
+      "name": "Terribly Tiny Tales",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-172250044-modified.png?1751543602",
+      "link": "https://bingenix-alpha.netlify.app/go?url=terribly-tiny-tales/"
+    },    
+    {
+      "name": "Chana Jor",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-06-02-182858838-modified-1.png?1748869430",
+      "link": "https://bingenix-alpha.netlify.app/go?url=chana-jor/"
+    },    
+    {
+      "name": "Pocket Films",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-165846760-modified-1.png?1751543981",
+      "link": "https://bingenix-alpha.netlify.app/go?url=pocket-films/"
+    },
+    {
+      "name": "RunnTV Shorts",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-170116018-modified.png?1751542321",
+      "link": "https://bingenix-alpha.netlify.app/go?url=runn-short-films/"
+    }
+
+  ]
+}
