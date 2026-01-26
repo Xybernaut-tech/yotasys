@@ -1,0 +1,259 @@
+{
+  "genre": "Movies",
+  "channels": 
+[
+    {
+      "name": "Sony Max HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-10-20-235734053_12.png",
+      "link": "https://momixtvmpdplayer.pages.dev/?play=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd&kid=08efc7fb107981608f7b64db5ea62469&key=3a6844bc9f0d9d9fd962639d7e4eb76a"
+    },
+    {
+      "name": "Sony Max 2",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-10-20-235515328_12.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=sony-max-2"
+    },
+    {
+      "name": "Sony Wah",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-10-20-235339161_12.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=sony-wah"
+    },
+    {
+      "name": "Sony Pix",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-10-20-235926264_12.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=sony-pix-hd"
+    },
+    {
+      "name": "Star Gold Romance",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-06-15-011355128-modified.png?1749930294",
+      "link": "https://binge-jiotv.pages.dev/play?id=1151"
+    },
+    {
+      "name": "Star Gold Select HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-06-15-011002722-modified.png?1749930288",
+      "link": "https://binge-jiotv.pages.dev/play?id=1113"
+    },
+    {
+      "name": "Star Gold Thrills",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-06-15-011223476-modified.png?1749930797",
+      "link": "https://binge-jiotv.pages.dev/play?id=1153"
+    },
+    {
+      "name": "Star Gold 2 HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/untitled-design-2-1-modified.png?1746994371",
+      "link": "https://binge-jiotv.pages.dev/play?id=1155"
+    },
+    {
+      "name": "Zee Cinema HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/untitled-design-modified.png?1754597220",
+      "link": "https://bingenix-alpha.netlify.app/go?url=z-cinema-hd"
+    },
+    {
+      "name": "&Pictures HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-16-014016984-modified-1-1-modified.png?1752610454",
+      "link": "https://bingenix-alpha.netlify.app/go?url=pictures-hd"
+    },
+    {
+      "name": "Star Utsav Movies",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-06-15-012031056-modified.png?1749931937",
+      "link": "https://binge-jiotv.pages.dev/play?id=1136"
+    },
+    {
+      "name": "Zee Classic",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-08-08-013733146-modified.png?1754597422",
+      "link": "https://binge-sports.pages.dev/run?q=nrmglh.zoormlmvivylim.cba/av/kozb.ksk?rw=sggkh://a5zp-xnzuorev.avv5.xln/xnzu/orev/2105547/AvvXozhhrxVOV/nzhgvi.n3f8"
+    },
+    {
+      "name": "Zee Cinema",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-16-012853795-modified.png?1752610471",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FZeecinema%2Fdefault%2Fmanifest.mpd&key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed"
+    },
+    {
+      "name": "&Pictures",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-16-012921718-modified.png?1752610478",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FAndpictures%2Fdefault%2Fmanifest.mpd&key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92"
+    },
+    {
+      "name": "Zee bollywood",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-16-013619466-modified.png?1752610504",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FZeebollywood%2Fdefault%2Fmanifest.mpd&key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1"
+    },
+    {
+      "name": "Zee Action",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-16-013641398-modified.png?1752610512",
+      "link": "https://bingenix-alpha.netlify.app/go?url=zee-action/"
+    },
+    {
+      "name": "Zee Anmol Cinema 2",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/untitled-design-1-modified-1.png?1754597667",
+      "link": "https://binge-sports.pages.dev/run?q=nrmglh.zoormlmvivylim.cba/av/kozb.ksk?rw=sggkh://a5zp-xnzuorev.avv5.xln/xnzu/orev/2105171/AvvTzmtzVOV/nzhgvi.n3f8"
+    },
+    {
+      "name": "Zee Anmol Cinema",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-10-201329874-modified_11.png",
+      "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FZeeanmolcinema%2Fdefault%2Fmanifest.mpd&key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74"
+    },
+    {
+      "name": "Colors Cineplex HD",
+      "logo": https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-10-201718290-modified_11.png?1746994416",
+      "link": "https://binge-jiotv.pages.dev/play?id=1477"
+    },
+    {
+      "name": "Colors Cineplex Superhits",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-10-201900626-cleanup-1-modified_11.png?1746994423",
+      "link": "https://binge-jiotv.pages.dev/play?id=1450"
+    },
+    {
+      "name": "Colors Cineplex Bollywood",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-10-202736883-modified_11.png",
+      "link": "https://binge-jiotv.pages.dev/play?id=1763"
+    },
+    {
+      "name": "Shemaroo Josh",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-09-06-142927081-modified.png?1757149214",
+      "link": "https://bingenix-alpha.netlify.app/go?url=shemaroo-josh/"
+    },
+    {
+      "name": "B4U Kadak",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-10-20-234700961-removebg-preview-modified_12.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=b4u-kadak/"
+    },
+    {
+      "name": "B4U Movies",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-18-015726464-modified_1.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=b4u-movies/"
+    },
+    {
+      "name": "Maha Movie",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/untitled-design-10-modified.png?1746994488",
+      "link": "https://binge-jiotv.pages.dev/play?id=809"
+    },
+    {
+      "name": "Bollywood Prime",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-21-021028339-modified.png?1746994442",
+      "link": "https://bingenix-alpha.netlify.app/go?url=bollywood-prime/"
+    },
+    {
+      "name": "Goldmines",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2025-05-09-175850290_orig.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=goldmines/"
+    },
+    {
+      "name": "Goldmines Movies",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2025-05-09-175901420_orig.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=goldmines-movies/"
+    },
+    {
+      "name": "Goldmines Bollywood",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-143109359-removebg-preview-modified.png?1751533367",
+      "link": "https://bingenix-alpha.netlify.app/go?url=goldmines-bollywood/"
+    },
+    {
+      "name": "NH Bollyflix",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-09-06-143438557-removebg-preview-1-modified.png?1757149554",
+      "link": "https://bingenix-alpha.netlify.app/go?url=nh-bollyflix/"
+    },
+    {
+      "name": "Xumo Bollywood and Indian Cinema",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-09-11-211808877-modified_21.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=xumo-bollywood-indian-cinema/"
+    },
+    {
+      "name": "The Movie Club",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-03-21-174223304_34.png",
+      "link": "https://samsung-tv.pages.dev/play.php?id=IN38000072R"
+    },
+    {
+      "name": "South Station",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-01-19-135157521_34.png?1746994473",
+      "link": "https://samsung-tv.pages.dev/play.php?id=IN3800008CX"
+    },
+    {
+      "name": "RDC Movies",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-21-005219030-removebg-preview-modified-1_11.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=rdc-movies/"
+    },
+    {
+      "name": "Dhamaka Movies",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-09-06-142927081-modified.png?1757149214",
+      "link": "https://bingenix-alpha.netlify.app/go?url=shemaroo-josh/"
+    },
+    {
+      "name": "Bollywood 4U",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-24-010452634-modified.png?1751555489",
+      "link": "https://bingenix-alpha.netlify.app/go?url=bollywood-4u/"
+    },
+    {
+      "name": "Bollywood HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-24-011605141-modified.png?1735071554",
+      "link": "https://bingenix-alpha.netlify.app/go?url=bollywood-hd/"
+    },
+    {
+      "name": "WOW Cinema One",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-24-012142054-modified.png?1736281684",
+      "link": "https://bingenix-alpha.netlify.app/go?url=wow-cinema-one/"
+    },
+    {
+      "name": "BBO HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/untitled-design-11-modified-1.png?1746994503",
+      "link": "https://bingenix-alpha.netlify.app/go?url=bbo/"
+    },
+    {
+      "name": "Bollywood Classic",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-171107816-removebg-preview-modified.png?1751542911",
+      "link": "https://bingenix-alpha.netlify.app/go?url=bbo-classic/"
+    },
+    {
+      "name": "Bollywood Classic HD",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-24-022019748-modified.png?1735071549",
+      "link": "https://bingenix-alpha.netlify.app/go?url=bollywood-classic-hd/"
+    },
+    {
+      "name": "Zee Bollyworld",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-24-005221466-modified.png?1735071202",
+      "link": "https://bingenix-alpha.netlify.app/go?url=z-bolly-world/"
+    },    
+    {
+      "name": "Joo Channel",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-09-184433203-modified.png?1746796657",
+      "link": "https://bingenix-alpha.netlify.app/go?url=joo-music/"
+    },    
+    {
+      "name": "Shemaroo Bollywood",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-181432776-modified.png?1747831491",
+      "link": "https://bingenix-alpha.netlify.app/go?url=shemaroo-bollywood/"
+    },    
+    {
+      "name": "B4U Movies",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-181532533-modified.png?1747831557",
+      "link": "https://bingenix-alpha.netlify.app/go?url=b4u-movies/"
+    },    
+    {
+      "name": "Movie Plus",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-09-183912711-modified.png?1746796663",
+      "link": "https://bingenix-alpha.netlify.app/go?url=movie-plus/"
+    },    
+    {
+      "name": "Runn TV Action",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-171540443-modified.png?1751543252",
+      "link": "https://bingenix-alpha.netlify.app/go?url=runn-action/"
+    },    
+    {
+      "name": "Runn TV Thrillers",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-171626199-modified.png?1751543260",
+      "link": "https://bingenix-alpha.netlify.app/go?url=runn-thrillers/"
+    },    
+    {
+      "name": "NH Bollygold",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-171234470-modified.png?1751543065",
+      "link": "https://bingenix-alpha.netlify.app/go?url=nh-bollygold/"
+    },
+    {
+      "name": "Cineshorts Premiere",
+      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-172030915-modified.png?1751555507",
+      "link": "https://bingenix-alpha.netlify.app/go?url=cineshorts-premiere/"
+    }
+
+
+
+  ]
+}
