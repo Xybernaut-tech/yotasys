@@ -97,14 +97,14 @@
       "link": "https://bingenix.odfinity.workers.dev/go?url=mnx-hd/"
     },
     {
-      "name": "Comedy Central",
-      "logo": "https://i.ibb.co/JjsVPbXR/image-2026-02-17-234111366-modified.png",
-      "link": "https://bingenix.odfinity.workers.dev/go?url=comedy-central/"
-    },
-    {
       "name": "Colors Infinity",
       "logo": "https://i.ibb.co/dhKZPC7/image-2026-02-17-234401779-modified.png",
       "link": "https://bingenix.odfinity.workers.dev/go?url=colors-infinity-hd/"
+    },
+    {
+      "name": "Comedy Central",
+      "logo": "https://i.ibb.co/JjsVPbXR/image-2026-02-17-234111366-modified.png",
+      "link": "https://bingenix.odfinity.workers.dev/go?url=comedy-central/"
     },
     {
       "name": "Hi Dost",
@@ -119,6 +119,7 @@
   ]
 
 }
+
 
 
 
