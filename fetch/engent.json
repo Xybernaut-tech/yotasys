@@ -4,27 +4,27 @@
     {
       "name": "HBO HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-03-06-134633536-modified.png?1741262559",
-      "link": "https://bingenix-alpha.netlify.app/go?url=hbo"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=hbo"
     },
     {
       "name": "AndFlix HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-03-06-173951440-modified.png?1741263279",
-      "link": "https://bingenix-alpha.netlify.app/go?url=and-flix-hd"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=and-flix-hd"
     },
     {
       "name": "&Prive HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-03-06-174138293-removebg-preview-2-modified.png?1741263347",
-      "link": "https://bingenix-alpha.netlify.app/go?url=prive-hd"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=prive-hd"
     },
     {
       "name": "Romedy Now",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-03-06-134550378-modified.png?1741262944",
-      "link": "https://bingenix-alpha.netlify.app/go?url=romedy-now/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=romedy-now/"
     },
     {
       "name": "Q Toons",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-07-212458645-removebg-preview-modified_11.png?1741263359",
-      "link": "https://bingenix-alpha.netlify.app/go?url=q-toonz/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=q-toonz/"
     },
     {
       "name": "4K Travel",
@@ -34,12 +34,12 @@
     {
       "name": "Clubbing TV",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-01-203724076-modified_29.png",
-      "link": "https://bingenix-alpha.netlify.app/go?url=clubbing-tv/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=clubbing-tv/"
     },
     {
       "name": "QGamex",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-05-101440845-modified_29.png?1746993780",
-      "link": "https://bingenix-alpha.netlify.app/go?url=q-gamex/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=q-gamex/"
     },
     {
       "name": "Discovery Turbo",
@@ -84,22 +84,23 @@
     {
       "name": "MN HD+",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-26-004901198-modified.png?1735154667",
-      "link": "https://bingenix-alpha.netlify.app/go?url=mn-plus-hd/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=mn-plus-hd/"
     },
     {
       "name": "MNX HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-26-004805897-modified.png?1741263403",
-      "link": "https://bingenix-alpha.netlify.app/go?url=mnx-hd/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=mnx-hd/"
     },
     {
       "name": "Hi Dost",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-26-005223218-modified.png?1735154611",
-      "link": "https://bingenix-alpha.netlify.app/go?url=hi-dost/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=hi-dost/"
     },
     {
       "name": "Movies Now HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-07-03-173818480-removebg-preview-modified.png?1751545049",
-      "link": "https://bingenix-alpha.netlify.app/go?url=movies-now-hd/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=movies-now-hd/"
     }
   ]
+
 }
