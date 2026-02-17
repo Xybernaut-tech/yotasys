@@ -52,19 +52,9 @@
       "link": "https://binge-jiotv.pages.dev/player2?id=1374"
     },
     {
-      "name": "Disney Channel HD",
-      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2025-06-22-194507474-modified_orig.png",
-      "link": "https://allinonereborn.fun/sansat-web/player.html?url=https%3A%2F%2Fallinonereborn.fun%2Fsansat-web%2Flive1.php%3Fid%3D63578"
-    },
-    {
       "name": "Discovery Kids",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-06-28-173629130-modified_29.png",
       "link": "https://zee-binge.pages.dev/drm?url=https%3A%2F%2Fd1g8wgjurz8via.cloudfront.net%2Fbpk-tv%2FDiscoverykids2%2Fdefault%2Fmanifest.mpd&key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d"
-    },
-    {
-      "name": "Chumbak TV",
-      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-05-01-011347107-modified_31.png?1736536982",
-      "link": "https://bingenix-alpha.netlify.app/go?url=chumbak-tv/"
     },
     {
       "name": "Disney International HD",
@@ -80,11 +70,6 @@
       "name": "Gubbare",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-06-28-173649241-modified_29.png?1746994615",
       "link": "https://bingenix-alpha.netlify.app/go?url=gubbare/"
-    },
-    {
-      "name": "ETV Balbharat HD",
-      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-02-16-172110828.png?1739706859",
-      "link": "https://tvgo.neocities.org/APPTV/tata?id=1340&key=aphpvjaahi&name=DW"
     },
     {
       "name": "Animax",
@@ -115,6 +100,7 @@
 
   ]
 }
+
 
 
 
