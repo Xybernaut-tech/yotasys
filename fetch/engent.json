@@ -82,6 +82,11 @@
       "link": "https://binge-jiotv.pages.dev/player2?id=1115"
     },
     {
+      "name": "Star Movies Select HD",
+      "logo": "https://i.ibb.co/yFJzrbbM/image-2026-02-17-234709362-modified.png",
+      "link": "https://binge-jiotv.pages.dev/player2?id=1110"
+    },
+    {
       "name": "MN HD+",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-26-004901198-modified.png?1735154667",
       "link": "https://bingenix.odfinity.workers.dev/go?url=mn-plus-hd/"
@@ -114,5 +119,6 @@
   ]
 
 }
+
 
 
