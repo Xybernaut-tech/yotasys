@@ -4,17 +4,17 @@
     {
       "name": "Discovery HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-09-28-192017242-modified_18.png",
-      "link": "https://binge-jiotv.pages.dev/play?id=575"
+      "link": "https://binge-jiotv.pages.dev/player2?id=3444"
     },
     {
       "name": "TLC HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-09-28-191736419-modified_18.png",
-      "link": "https://binge-jiotv.pages.dev/play?id=571"
+      "link": "https://binge-jiotv.pages.dev/player2?id=3458"
     },
     {
       "name": "National Geographic HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/image-2024-09-28-191833204-modified_18.png",
-      "link": "https://binge-jiotv.pages.dev/play?id=1335"
+      "link": "https://binge-jiotv.pages.dev/player2?id=1335"
     },
     {
       "name": "Discovery Science",
@@ -24,7 +24,7 @@
     {
       "name": "Animal Planet HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-04-02-161617811-modified_31.png",
-      "link": "https://binge-jiotv.pages.dev/play?id=566"
+      "link": "https://binge-jiotv.pages.dev/player2?id=566"
     },
     {
       "name": "History TV 18 HD",
@@ -34,12 +34,12 @@
     {
       "name": "Nat Geo Wild",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-10-20-020153928_11.png",
-      "link": "https://binge-jiotv.pages.dev/play?id=1332"
+      "link": "https://binge-jiotv.pages.dev/player2?id=1332"
     },
     {
       "name": "Investigation Discovery",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-09-29-210601741-modified_17.png",
-      "link": "https://binge-jiotv.pages.dev/play?id=527"
+      "link": "https://binge-jiotv.pages.dev/player2?id=527"
     },
     {
       "name": "Fashion TV",
@@ -69,12 +69,12 @@
     {
       "name": "Travelxp HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-09-29-204932271-modified_17.png",
-      "link": "https://binge-jiotv.pages.dev/play?id=562"
+      "link": "https://binge-jiotv.pages.dev/player2?id=562"
     },
     {
       "name": "Travelxp HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-09-29-204932271-modified_17.png",
-      "link": "https://binge-jiotv.pages.dev/play?id=562"
+      "link": "https://binge-jiotv.pages.dev/player2?id=562"
     },
     {
       "name": "Food XP",
@@ -114,5 +114,6 @@
 
   ]
 }
+
 
 
