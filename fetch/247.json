@@ -9,7 +9,7 @@
     {
       "name": "Doraemon 24/7",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/untitled-design-4-modified.png?1750767731",
-      "link": "https://bingenix-alpha.netlify.app/go?url=24-7-doraemon"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=24-7-doraemon"
     },
     {
       "name": "Shinchan 24/7",
@@ -24,9 +24,10 @@
     {
       "name": "Hindi Movies 24/7",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/untitled-design-6-modified.png?1750766725",
-      "link": "https://bingenix-alpha.netlify.app/go?url=bollywood-movies"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=bollywood-movies"
     }
     
 
   ]
 }
+
