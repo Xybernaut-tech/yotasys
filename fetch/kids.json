@@ -19,7 +19,7 @@
     {
       "name": "Cartoon Network",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-01-205024176-modified_29.png",
-      "link": "https://binge-jiotv.pages.dev/player2?id=816"
+      "link": "https://bingenix-alpha.netlify.app/go?url=cartoon-network-hindi"
     },
     {
       "name": "Nick",
@@ -94,26 +94,28 @@
     {
       "name": "Cartoon Network HD+",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-10-21-003904789_12.png?1746994608",
-      "link": "https://binge-jiotv.pages.dev/player2?id=1079"
+      "link": "https://bingenix-alpha.netlify.app/go?url=cartoon-network-hd-english/"
     },
     {
       "name": "Wow Kidz",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-08-29-001506780-modified-removebg-preview-1-modified_24.png",
-      "link": "https://www.xfireflix.fun/yupptv/play.php?id=wow-kidz-hindi"
+      "link": "https://www.xfireflix.fun/yupptv/play.php?id=wow-kidz/"
     },
     {
-      "name": "Kids TV India",
+      "name": "Tata Toons +",
+      "logo": "https://i.ibb.co/9fSNxNh/image-2026-02-17-210342863-modified.png",
+      "link": "https://bingenix-alpha.netlify.app/go?url=tata-play-toons"
+    },
+    {
+      "name": "Kidz TV India",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-06-190919429-modified.png?1746538780",
-      "link": "https://www.distro.tv/live/kids-tv-india/"
-    },
-    {
-      "name": "Toonz Kids",
-      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-12-15-012658503-modified_11.png",
-      "link": "https://www.distro.tv/live/toonzkids/"
+      "link": "https://bingenix-alpha.netlify.app/go?url=kids-tv-india/"
     }
+    
 
   ]
 }
+
 
 
 
