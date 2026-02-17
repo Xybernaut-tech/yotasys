@@ -29,7 +29,7 @@
     {
       "name": "History TV 18 HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-04-02-161647896-modified_31.png",
-      "link": "https://bingenix-alpha.netlify.app/go?url=history-tv18-hd"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=history-tv18-hd"
     },
     {
       "name": "Nat Geo Wild",
@@ -44,17 +44,17 @@
     {
       "name": "Fashion TV",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-05-24-164523599-modified_29.png",
-      "link": "https://bingenix-alpha.netlify.app/go?url=fashion-tv"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=fashion-tv"
     },
     {
       "name": "Epic",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-07-12-174918846-modified_28.png",
-      "link": "https://bingenix-alpha.netlify.app/go?url=epic"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=epic"
     },
     {
       "name": "Sony BBC Earth HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-06-185109476-removebg-preview-2-modified.png?1746537941",
-      "link": "https://bingenix-alpha.netlify.app/go?url=sony-bbc-earth-hd"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=sony-bbc-earth-hd"
     },
     {
       "name": "Zee Zest",
@@ -64,7 +64,7 @@
     {
       "name": "Goodtimes",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-05-26-001104624-modified_29.png",
-      "link": "https://bingenix-alpha.netlify.app/go?url=ndtv-good-times/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=ndtv-good-times/"
     },
     {
       "name": "Travelxp HD",
@@ -84,7 +84,7 @@
     {
       "name": "Food Food",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-09-29-213819688-modified_17.png",
-      "link": "https://bingenix-alpha.netlify.app/go?url=food-food/"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=food-food/"
     },
     {
       "name": "Nautical Channel",
@@ -114,4 +114,5 @@
 
   ]
 }
+
 
