@@ -1,0 +1,28 @@
+{
+  "genre": "live",
+  "channels": [
+    
+    {
+      "name": "T2O Prime English",
+      "logo": "https://i.ibb.co/XxHSS93g/image-2026-02-19-005231867.png",
+      "link": "https://binge-sports.pages.dev/ch?id=prime-en"
+    },
+    {
+      "name": "Sony Live Events",
+      "logo": "https://i.ibb.co/6RRJyNJq/image-2026-02-19-005319752.png",
+      "link": "https://allinonereborn.xyz/events"
+    },
+    {
+      "name": "Fancode",
+      "logo": "https://i.ibb.co/5gtfpnwF/image-2026-02-19-005400348.png",
+      "link": "https://freelivtv.ct.ws/fancode.html?i=2"
+    },
+    {
+      "name": "T2O Prime Hindi",
+      "logo": "https://i.ibb.co/d4Q30b6Q/image-2026-02-19-005452956.png",
+      "link": "https://momixtv.pages.dev/?id=primewchin"
+    }
+    
+
+  ]
+}
