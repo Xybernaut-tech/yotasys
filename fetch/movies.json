@@ -160,12 +160,17 @@
     {
       "name": "The Movie Club",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-03-21-174223304_34.png",
-      "link": "https://samsung-tv.pages.dev/play.php?id=IN38000072R"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=the-movie-club/"
+    },
+    {
+      "name": "The Movie Club 2",
+      "logo": "https://i.ibb.co/svkjnV2m/image-2026-08-08-203955076-modified.png",
+      "link": "https://bingenix.odfinity.workers.dev/go?url=the-movie-club2/"
     },
     {
       "name": "South Station",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-01-19-135157521_34.png?1746994473",
-      "link": "https://samsung-tv.pages.dev/play.php?id=IN3800008CX"
+      "link": "https://bingenix.odfinity.workers.dev/go?url=south-station/"
     },
     {
       "name": "RDC Movies",
@@ -221,11 +226,6 @@
       "name": "Shemaroo Bollywood",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-181432776-modified.png?1747831491",
       "link": "https://bingenix.odfinity.workers.dev/go?url=shemaroo-bollywood/"
-    },    
-    {
-      "name": "B4U Movies",
-      "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2025-05-21-181532533-modified.png?1747831557",
-      "link": "https://bingenix.odfinity.workers.dev/go?url=b4u-movies/"
     },    
     {
       "name": "Movie Plus",
