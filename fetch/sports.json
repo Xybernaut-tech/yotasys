@@ -19,12 +19,12 @@
     {
       "name": "Star Sports 3",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/untitled-design-5-modified.png?1755188409",
-      "link": "https://jiotvplus.dr-strange.workers.dev/?id=302117"
+      "link": ""
     },
     {
       "name": "Star Sports Khel",
       "logo": "https://i.ibb.co/WvKQGYR6/image-2026-05-17-021602202-4x-removebg-preview-modified.png",
-      "link": "https://jiotvplus.dr-strange.workers.dev/?id=301246"
+      "link": ""
     },
     {
       "name": "Star Sports 1 Select HD",
@@ -34,17 +34,52 @@
     {
       "name": "Star Sports 2 Select HD",
       "logo": "https://i.ibb.co/VcfbHSPn/image-2026-05-17-022023814-removebg-preview-modified.png",
-      "link": "https://jiotvplus.dr-strange.workers.dev/?id=302114"
+      "link": ""
     },
     {
       "name": "Star Sports 2 Hindi HD",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/untitled-design-3-modified.png?1755188515",
-      "link": "https://jiotvplus.dr-strange.workers.dev/?id=301229"
+      "link": ""
     },
     {
       "name": "DD Sports",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/image-2024-11-26-215710879-modified_11.png?1755188532",
       "link": "https://bingenix.odfinity.workers.dev/go?url=dd-sports/"
+    },
+    {
+      "name": "Unite8 Sports 1 HD",
+      "logo": "https://i.ibb.co/WNkhvygL/image-2026-10-26-013129256-modified.png",
+      "link": "https://bingenix.odfinity.workers.dev/go?url=u-sports-hd/"
+    },
+    {
+      "name": "Unite8 Sports 2 HD",
+      "logo": "https://i.ibb.co/QFPDh2fP/image-2026-10-26-013310660-modified.png",
+      "link": "https://bingenix.odfinity.workers.dev/go?url=u-sports-hd/"
+    },
+    {
+      "name": "Sony Sports Ten 1 HD",
+      "logo": "https://i.ibb.co/tM6wpZR0/image-2026-01-28-004602020-modified-1.png",
+      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-1-hd"
+    },
+    {
+      "name": "Sony Sports Ten 2 HD",
+      "logo": "https://i.ibb.co/RT9KCVCj/image-2026-01-28-004718173-modified.png",
+      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-2-hd"
+    },
+    {
+      "name": "Sony Sports Ten 3 HD",
+      "logo": "https://i.ibb.co/yB8yYZ9j/image-2026-01-28-004804724-modified.png",
+      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-3-hd"
+    },
+    {
+      "name": "Sony Sports Ten 4 HD",
+      "logo": "https://i.ibb.co/9X9g7pY/image-2026-01-28-004852434-modified.png",
+      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-4-hd"
+    },
+    {
+      "name": "Sony Sports Ten 5 HD",
+      "logo": "https://i.ibb.co/dszdPsyh/image-2026-01-28-004936832-modified.png",
+      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-5-hd"
     },
     {
       "name": "Ten Cricket",
@@ -180,32 +215,8 @@
       "name": "Sky Sport 4 NZ",
       "logo": "https://tv4h.weebly.com/uploads/1/4/6/3/146397340/editor/sky4-185x278-photoaidcom-cropped.png?1755188819",
       "link": "https://binge-sports.pages.dev/p?q=glkvnyvw.kd/xszmmvo/HpbHklig4[MvdAvzozmw]"
-    },
-    {
-      "name": "Sony Sports Ten 1 HD",
-      "logo": "https://i.ibb.co/tM6wpZR0/image-2026-01-28-004602020-modified-1.png",
-      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-1-hd"
-    },
-    {
-      "name": "Sony Sports Ten 2 HD",
-      "logo": "https://i.ibb.co/RT9KCVCj/image-2026-01-28-004718173-modified.png",
-      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-2-hd"
-    },
-    {
-      "name": "Sony Sports Ten 3 HD",
-      "logo": "https://i.ibb.co/yB8yYZ9j/image-2026-01-28-004804724-modified.png",
-      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-3-hd"
-    },
-    {
-      "name": "Sony Sports Ten 4 HD",
-      "logo": "https://i.ibb.co/9X9g7pY/image-2026-01-28-004852434-modified.png",
-      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-4-hd"
-    },
-    {
-      "name": "Sony Sports Ten 5 HD",
-      "logo": "https://i.ibb.co/dszdPsyh/image-2026-01-28-004936832-modified.png",
-      "link": "https://suniliv.pages.dev/ptest1?id=sony-ten-5-hd"
     }
+    
   ]
 }
 
